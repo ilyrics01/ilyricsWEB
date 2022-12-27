@@ -1,0 +1,206 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+span#e22            { /* images/ilyrics_html00200... */
+	border          :   0.00pt none #606060;
+	background      : transparent url(images/ilyrics_html002004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             :   7.50pt;
+	width           : 502.50pt;
+	height          : 597.00pt;
+	}
+div#e21             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             :  22.50pt;
+	width           : 117.00pt;
+	height          :  90.00pt;
+	}
+span#e20            { /* images/ilyrics_html00200... */
+	background      : transparent url(images/ilyrics_html002003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  27.00pt;
+	top             :  27.00pt;
+	width           : 108.00pt;
+	height          :  78.00pt;
+	}
+div#e19             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : left;
+	background-image: url(images/ilyrics_html001004.jpg);
+	position        : absolute;
+	left            : 139.50pt;
+	top             :  22.50pt;
+	width           : 355.50pt;
+	height          :  90.00pt;
+	}
+h1#e18              { /* {enter company name} */
+	padding-top     :  23.25pt;
+	position        : absolute;
+	left            : 148.50pt;
+	top             :  27.00pt;
+	width           : 337.50pt;
+	height          :  57.75pt;
+	}
+div#e17             { /* &nbsp;&nbsp;Home */
+	text-align      : left;
+	padding-top     :   3.00pt;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 115.50pt;
+	width           : 193.50pt;
+	height          :  14.25pt;
+	}
+div#e16             { /* &nbsp;&nbsp;About Us */
+	text-align      : left;
+	background-color: #3333cc;
+	padding-top     :   3.00pt;
+	position        : absolute;
+	left            : 221.25pt;
+	top             : 115.50pt;
+	width           : 193.50pt;
+	height          :  14.25pt;
+	}
+span#e15            { /* images/ilyrics_html00200... */
+	border          :   0.00pt none #a0a0a0;
+	background      : transparent url(images/ilyrics_html002002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 420.00pt;
+	top             : 115.50pt;
+	width           :  75.00pt;
+	height          :  18.75pt;
+	}
+div#e14             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 137.25pt;
+	width           : 473.25pt;
+	height          : 364.50pt;
+	}
+span#e13            { /* images/ilyrics_html00200... */
+	background      : transparent url(images/ilyrics_html002001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 152.25pt;
+	width           : 166.50pt;
+	height          : 333.75pt;
+	}
+div#e12             { /* {XYZ Products, Inc. stri... */
+	text-align      : left;
+	padding-top     : 117.75pt;
+	position        : absolute;
+	left            : 196.50pt;
+	top             : 159.75pt;
+	width           : 291.00pt;
+	height          :  48.75pt;
+	}
+div#e11             { /* {enter company profile\ ... */
+	text-align      : left;
+	position        : absolute;
+	left            : 196.50pt;
+	top             : 333.00pt;
+	width           : 291.00pt;
+	height          : 129.00pt;
+	}
+address#e10         { /* {company} */
+	text-align      : left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 519.00pt;
+	width           : 144.00pt;
+	height          :  15.00pt;
+	}
+address#e9          { /* {enter street} */
+	text-align      : left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 537.00pt;
+	width           : 144.00pt;
+	height          :  15.00pt;
+	}
+address#e8          { /* {enter city}  {state, zi... */
+	text-align      : left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 555.00pt;
+	width           : 144.00pt;
+	height          :  15.00pt;
+	}
+address#e7          { /* {enter country} */
+	text-align      : left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 573.00pt;
+	width           : 144.00pt;
+	height          :  15.00pt;
+	}
+address#e6          { /* Tel: */
+	text-align      : left;
+	position        : absolute;
+	left            : 180.75pt;
+	top             : 519.00pt;
+	width           :  37.50pt;
+	height          :  15.00pt;
+	}
+address#e5          { /* {enter phone} */
+	text-align      : left;
+	position        : absolute;
+	left            : 221.25pt;
+	top             : 519.00pt;
+	width           :  99.75pt;
+	height          :  15.00pt;
+	}
+address#e4          { /* Fax: */
+	text-align      : left;
+	position        : absolute;
+	left            : 180.75pt;
+	top             : 537.00pt;
+	width           :  37.50pt;
+	height          :  15.00pt;
+	}
+address#e3          { /* {enter fax} */
+	text-align      : left;
+	position        : absolute;
+	left            : 221.25pt;
+	top             : 537.00pt;
+	width           :  99.75pt;
+	height          :  15.00pt;
+	}
+address#e2          { /* E-mail: */
+	text-align      : left;
+	position        : absolute;
+	left            : 180.75pt;
+	top             : 555.00pt;
+	width           :  37.50pt;
+	height          :  15.00pt;
+	}
+address#e1          { /* {your@address.here} */
+	text-align      : left;
+	position        : absolute;
+	left            : 221.25pt;
+	top             : 555.00pt;
+	width           :  99.75pt;
+	height          :  15.00pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 517.50pt;
+	height          : 618.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #4e4e4e;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

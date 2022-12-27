@@ -1,0 +1,92 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+span#e8             { /* images/ilyrics_html00100... */
+	border          :   0.00pt none #606060;
+	background      : transparent url(images/ilyrics_html001003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             :   7.50pt;
+	width           : 502.50pt;
+	height          : 469.50pt;
+	}
+div#e7              {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             :  22.50pt;
+	width           : 117.00pt;
+	height          :  90.00pt;
+	}
+div#e6              {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : left;
+	background-image: url(images/ilyrics_html001004.jpg);
+	position        : absolute;
+	left            : 139.50pt;
+	top             :  22.50pt;
+	width           : 355.50pt;
+	height          :  90.00pt;
+	}
+div#e5              {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 137.25pt;
+	width           : 473.25pt;
+	height          : 244.50pt;
+	}
+span#e4             { /* images/ilyrics_html00100... */
+	background      : transparent url(images/ilyrics_html001002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  12.00pt;
+	top             :  15.00pt;
+	width           : 495.75pt;
+	height          : 577.50pt;
+	}
+address#e3          { /* Mladenovac\ \Kralja Petr... */
+	font            : italic bold 12pt 'Tekton Pro';
+	color           : #808000;
+	text-align      : left;
+	position        : absolute;
+	left            :  30.75pt;
+	top             : 518.25pt;
+	width           : 176.25pt;
+	height          :  53.25pt;
+	}
+address#e2          { /* +381 63 8 32 33 66\ \ily... */
+	font            : bold 12pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 355.50pt;
+	top             : 536.25pt;
+	width           : 129.00pt;
+	height          :  32.25pt;
+	}
+span#e1             { /* images/ilyrics_html00100... */
+	background      : transparent url(images/ilyrics_html001001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 126.00pt;
+	top             : 154.50pt;
+	width           : 272.25pt;
+	height          : 272.25pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 517.50pt;
+	height          : 618.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #4e4e4e;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
